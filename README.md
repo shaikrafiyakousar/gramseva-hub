@@ -133,3 +133,7 @@ Narayana Engineering College, Nellore, Andhra Pradesh
 This project is open source and available for 
 educational purposes. Feel free to use and 
 modify for learning!
+
+## ⭐ Support
+
+If you found this project interesting, consider giving it a star on GitHub.
