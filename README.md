@@ -116,9 +116,9 @@ gramseva-hub/
 **Shaik Rafiya Kousar**
 
 B.Tech in Electronics and Communication Engineering (ECE)
-Narayana Engineering College, Nellore, Andhra Pradesh 
+Narayana Engineering College, Nellore, Andhra Pradesh
 
-🔗 GitHub: github.com/shaikrafiyakousar
+🔗 GitHub: https://github.com/shaikrafiyakousar 
 🔗 Live Project: https://gramseva-hub.netlify.app
 
 ## 📝 Notes
