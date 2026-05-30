@@ -29,6 +29,23 @@ modern UI best practices
 - ✅ Fully responsive navigation, hover effects, and modal interactions
 - ✅ Static dummy data for a complete portfolio-ready demo
 
+## 📸 Screenshots
+
+### 🏠 Home Page
+![Home Page](screenshots/home.jpeg)
+
+### 📅 Events Page
+![Events Page](screenshots/events.jpeg)
+
+### 🙋 Volunteer Registration
+![Volunteer Registration](screenshots/volunteer.jpeg)
+
+### 🚨 Community Issues
+![Community Issues](screenshots/issues.jpeg)
+
+### 🎓 Student Support
+![Student Support](screenshots/students.jpeg)
+
 ## 📄 Pages
 
 | Page | Route | Description |
